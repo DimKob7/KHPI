@@ -1,6 +1,6 @@
 # KHPI
-Folsed WEB - Webapp labs
-Current status, 27/11/
+Folder WEB - Webapp labs.
+Current status (27/11/2022).
 Lab1 Ready, send for check
 Lab2 In preogress
 Lab3 Planning
