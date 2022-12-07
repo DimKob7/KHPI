@@ -6,4 +6,4 @@ Lab2 - Done.
 Lab3 - Ready, sent for check.
 Lab4 - Ready, sent for check.
 Lab5 - Ready, sent for check.
-Lab6 - In progress..
+Lab6 - Ready, sent for check.
